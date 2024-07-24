@@ -1,4 +1,4 @@
-# the print function intro
+# the print() function intro
 
 print("Hello World")
 print("This is how we print text to the screen")
