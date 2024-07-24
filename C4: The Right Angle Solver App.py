@@ -1,4 +1,4 @@
-# The Right Angle Solver App
+# Challenge 4: The Right Angle Solver App
 import math
 print("Welcome to the Right Triangle Solver App")
 side_a = float(input("\nWhat is the length of the first leg of the triangle? "))
