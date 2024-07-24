@@ -13,7 +13,7 @@ temp_f = round(temp_f, 4)
 temp_c = round(temp_c, 4)
 temp_k = round(temp_k, 4)
 
-
+#print statements
 print("\nstring concatenation\n")
 print("Degrees in F:\t" + str(temp_f))
 print("Degrees in C:\t" + str(temp_c))
